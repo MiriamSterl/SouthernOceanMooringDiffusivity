@@ -11,3 +11,5 @@ Figures 4, 6 and 7 compare distributions of properties between the SR1b section 
 Figure 8 shows distributions of eddy diffusivity from the DIMES mooring data and compares these with distributions computed in Chapman & Sallée (2017) and Groeskamp et al. (2020). The data from these two studies are processed in `process_data_ChapmanSallée.ipynb` and `process_data_Groeskamp.ipynb`, respectively. 
 
 Figures 4-9 as well as Figures S2-S6 are all plotted in `plot_data_paper.ipynb`.
+
+`ENVIRONMENT.yml` lists all the Python packages and versions that were used in this project.
