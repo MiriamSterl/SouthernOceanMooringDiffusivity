@@ -1,4 +1,6 @@
-Code accompanying the manuscript "Estimating cross-stream isopycnal eddy diffusivity from mooring observations" submitted to *Ocean Science*.
+[![DOI](https://zenodo.org/badge/1081778890.svg)](https://doi.org/10.5281/zenodo.24277496)
+
+Code accompanying the manuscript "Estimating cross-stream isopycnal eddy diffusivity from mooring observations" [submitted to *Ocean Science*](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2566/). 
 
 Figure 1 of the manuscript, showing a map of the study area, is produced in `map_moorings_section.ipynb`.
 
