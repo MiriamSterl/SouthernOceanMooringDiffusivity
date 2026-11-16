@@ -6,10 +6,8 @@ Figure 2 shows the spline fits of cross-stream distance along the SR1b hydrograp
 
 Figure 3 compares temperature, salinity and neutral density as a function of dynamic height for the SR1b section data and the DIMES mooring data and is produced in `compare_data.ipynb`.
 
-Figures 5, 7 and 8 compare distributions of properties between the SR1b section data and the DIMES mooring data. The data are processed in `process_data_sections.ipynb` aand `process_data_mooring.ipynb`, respectively. Figure 6 also shows the distributions from the SR1b section when the full section is taken into account, computed in `process_data_sections_full.ipynb`. Figure 10 shows the distributions of mixing length from the SR1b section with different (downsampled) vertical resolutions, computed in `process_data_sections_subsample.ipynb`.
+Distributions of temperature and mixing properties of the SR1b section and the DIMES mooring are computed in `process_data_sections.ipynb` and `process_data_mooring.ipynb`, respectively. The distributions from the SR1b section when the full section is taken into account are computed in `process_data_sections_full.ipynb`. Distributions from the SR1b section with different (downsampled) vertical resolutions are computed in `process_data_sections_subsample.ipynb`. The distributions are saved both as a function of neutral density and as a function of depth as vertical coordinate. From these calculations, Figures 5-10, B1, and C1-C5 are produced, all in `plot_data_paper.ipynb`.
 
-Figure 9 shows distributions of eddy diffusivity from the DIMES mooring data and compares these with distributions computed in Chapman & Sallée (2017) and Groeskamp et al. (2020). The data from these two studies are processed in `process_data_ChapmanSallée.ipynb` and `process_data_Groeskamp.ipynb`, respectively. 
-
-Figures 5-10 as well as Figures B1-B5 are all plotted in `plot_data_paper.ipynb`.
+Figure 9 shows distributions of eddy diffusivity from the DIMES mooring data and compares these with distributions computed in Chapman & Sallée (2017) and Groeskamp et al. (2020). The data from these two studies are processed in `process_data_ChapmanSallée.ipynb` and `process_data_Groeskamp.ipynb`, respectively.
 
 `ENVIRONMENT.yml` lists all the Python packages and versions that were used in this project.
